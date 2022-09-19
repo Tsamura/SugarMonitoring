@@ -2,7 +2,7 @@
 
 This project is one of the first few projects that I have worked on as a beginner developer and it is coded in PHP. I used XAMPP to run and host my application on a Apache server (localhost) along with an MySQL database which stores the data entered on the website. 
 
-<h2> So what exactly is this app all about? </h2>
+<h2> So what exactly is this application all about? </h2>
 
 Basically, it is an application that allows registered users to record and track their blood sugar levels to determine whether they are at risk of getting illnesses due to a high blood sugar level.
 
